@@ -582,7 +582,6 @@ summary:focus-visible {
     }
 }
 
-/* Botões de categorias de tamanhos iguais em qualquer tela. */
 .category-nav {
     display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -644,7 +643,6 @@ summary:focus-visible {
     }
 }
 
-/* Categorias com cantos arredondados. */
 .category-nav a {
-    border-radius: 999px
+    border-radius: 10px
 }
