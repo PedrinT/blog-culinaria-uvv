@@ -238,14 +238,14 @@ a {
     align-items: center;
     padding: 20px
 }
-
+/*
 .card:nth-child(2) .card-visual {
     background: #f2e7d6
 }
 
 .card:nth-child(3) .card-visual {
     background: #efdfd3
-}
+}*/
 
 .card-visual span:first-child {
     font: italic 16px Georgia;
